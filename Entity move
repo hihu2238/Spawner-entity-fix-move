@@ -2,10 +2,10 @@
     This loadstring for DOORS Entity Spawner V2 is now deprecated.
     Please use the new loadstring below to remain up to date:
 
-    https://pastefy.app/F87mQnkF/raw
+    https://raw.githubusercontent.com/hihu2238/Spawner-entity-fix-move/refs/heads/main/Entity%20move%20fix%20script%20by%20vynixus
 ]]--
 
-local Spawner = loadstring(game:HttpGet("https://pastefy.app/F87mQnkF/raw"))()
+local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/hihu2238/Spawner-entity-fix-move/refs/heads/main/Entity%20move%20fix%20script%20by%20vynixus"))()
 
 local Module = {
     Create = function(config: any): any?
